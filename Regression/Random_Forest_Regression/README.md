@@ -64,16 +64,16 @@ plt.plot(x_grid,rf_regressor.predict(x_grid), color = 'blue')  # Drawing the Ran
 plt.xticks(np.arange(1,11,0.5))
 
 plt.yticks(np.arange(0,max(y),50000))
-### Labeling
+#### Labeling
 plt.title("Salary predictor based on position by Decision Tree High resolution")
 
 plt.ylabel("Position in the company",verticalalignment='baseline')
 
 plt.xlabel("Salary",fontsize = 'larger')
 
-# Enabling the grid
+#### Enabling the grid
 plt.grid()
-# Displaying the model
+#### Displaying the model
 plt.show()
 
 <img width="1353" alt="random_forest" src="https://user-images.githubusercontent.com/32480274/50397415-a5befe80-0770-11e9-9599-21d76c644082.png">
