@@ -134,7 +134,7 @@ plt.show()
 ### Training Set
 
 <img width="634" alt="image" src="https://user-images.githubusercontent.com/32480274/50398733-33531c00-077a-11e9-9597-cc3fa6ca052b.png">
-￼
+
 ### Visualization 
 
     * Blue and yellow Dots => Data used for training (Training set)
