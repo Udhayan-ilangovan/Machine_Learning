@@ -140,7 +140,8 @@ plt.show()
 
 ### Test Set
 
-<img width="641" alt="screenshot 2018-12-24 at 12 12 46" src="https://user-images.githubusercontent.com/32480274/50398096-3bf52380-0775-11e9-8280-4b233a10d30a.png">
+￼￼
+<img width="641" alt="screenshot 2018-12-24 at 12 21 35" src="https://user-images.githubusercontent.com/32480274/50398262-77442200-0776-11e9-8576-f225e5269461.png">
 
 ￼
 ### Visualization 
