@@ -56,12 +56,7 @@ results_list_csv.to_csv('results_list_csv.csv', index=False, header=False)
 
 <img width="1420" alt="apriori_dataset" src="https://user-images.githubusercontent.com/32480274/50400620-479e1580-0788-11e9-9511-49ebb906c513.png">
 
-￼
 
 ### Apriori output (generated rules) in a CSV 
 
-
-
 <img width="1435" alt="apriori_output_rule" src="https://user-images.githubusercontent.com/32480274/50400623-4bca3300-0788-11e9-9e2e-064fc2985cb6.png">
-
-￼
