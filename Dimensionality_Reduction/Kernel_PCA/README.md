@@ -158,7 +158,7 @@ plt.show()
     * 1 - 0 => Incorrect prediction of the Customer who purchased the car.
 
 <img width="214" alt="kernel_pca_cm" src="https://user-images.githubusercontent.com/32480274/50404849-0835f000-07ad-11e9-9ba3-5c9665d22254.png">
-￼
+
 ### Training Set
 
 ### Visualization 
@@ -167,7 +167,7 @@ plt.show()
     * Red part  =>  Customer who hadn't purchased the car
     * Green part => Customer who purchased the car
 <img width="1312" alt="kernal_pca_test_set" src="https://user-images.githubusercontent.com/32480274/50404851-0c620d80-07ad-11e9-8a74-d44c3dea2dad.png">
-￼
+
 ### Test Set
 
 ### Visualization 
