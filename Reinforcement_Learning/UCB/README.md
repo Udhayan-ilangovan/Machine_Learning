@@ -14,10 +14,12 @@
 <img width="269" alt="ucb_maximum" src="https://user-images.githubusercontent.com/32480274/50403959-357da080-07a3-11e9-8a7b-90a4087aac67.png">
 ￼
 * In our example, it will show an advertisement based on its rewards
+
     * In the start, it will show all advertisement to the viewer.
     * If the viewer clicks the advertisement, Then it is a success so that particular add get a reward.
     * If the viewer doesn't click the advertisement, Then that particular add doesn't get any reward.
     * So, it will calculate the confident level by comparing the number of times the advertisement is shown and that particular advertisement's reward the selection of add keep changing periodically. 
+    
 ## UCB
 import numpy as np # used for mathematical operations
 
@@ -145,11 +147,13 @@ plt.ylabel('Number of times each ad was selected')
 plt.show()
 
 ### Visualising
+
 Number of time add selected out of 10000
 
 <img width="1347" alt="ucb_add_selected_rn" src="https://user-images.githubusercontent.com/32480274/50403964-3f070880-07a3-11e9-8e62-a4bd387fd30d.png">
-￼
+
 ### Visualising
+
 Success percentage of add selected
 
 <img width="1362" alt="ucb_add_selected_pr" src="https://user-images.githubusercontent.com/32480274/50403965-429a8f80-07a3-11e9-86b6-87232031092f.png">
