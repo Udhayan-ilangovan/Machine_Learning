@@ -19,7 +19,7 @@
     * Dependent variable  => Purchased the car (Yes || No)
     * Independent variable => Salary and age 
 
-## Support Vector Machine Kernel (Non-Linear)
+## Support Vector Machine Kernel (Non-Linear)
 import numpy as np # used for mathematical operations
 
 import matplotlib.pyplot as plt # used for plot graphically
