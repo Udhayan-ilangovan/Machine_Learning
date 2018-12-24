@@ -140,7 +140,7 @@ plt.show()
     * Blue and yellow Dots => Data used for training (Training set)
     * Red part  =>  Customer who hadn't purchased the car
     * Green part => Customer who purchased the car
-
+ 
 ### Test Set
 
 <img width="634" alt="image" src="https://user-images.githubusercontent.com/32480274/50398741-4239ce80-077a-11e9-993d-372377578d8c.png">
