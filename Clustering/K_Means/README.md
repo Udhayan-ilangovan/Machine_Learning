@@ -96,7 +96,7 @@ plt.show()
 
 <img width="1348" alt="k-means_clustering_elbow" src="https://user-images.githubusercontent.com/32480274/50400273-baf25800-0785-11e9-8673-aaee12550ab6.png">
 ￼
-### Clustered data
+# Clustered data
 
 
     *  5 centroids and cluster 
