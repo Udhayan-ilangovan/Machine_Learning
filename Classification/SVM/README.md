@@ -50,7 +50,8 @@ x_test = x_standardscaler.transform(x_test)
 ### Training the model 
 from sklearn.svm import SVC
 
-svm_classifier = SVC(kernel = 'rbf',gamma=1,random_state = 0) # rbf is good kernel for this model || increasing the gamma will vary in prediction by reducing the boundries based on training set          
+svm_classifier = SVC(kernel = 'rbf',gamma=1,random_state = 0) # rbf is good kernel for this model || increasing the gamma will vary in prediction by reducing the boundries based on training set    
+
 "#"svm_classifier = SVC(kernel = 'poly',degree=3,random_state = 0) # (Based on the data set used) Here For this kernel poly degree 3 is better if degree is increased it i\ties to over fit the data 
 
 svm_classifier.fit(x_train,y_train)
@@ -143,7 +144,7 @@ plt.show()
 ### Test Set
 
 <img width="634" alt="image" src="https://user-images.githubusercontent.com/32480274/50398741-4239ce80-077a-11e9-993d-372377578d8c.png">
-￼
+
 ### Visualization 
 
     * Blue and yellow Dots => Data used for Testing (Test set)
