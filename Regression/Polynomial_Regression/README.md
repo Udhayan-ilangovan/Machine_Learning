@@ -1,4 +1,4 @@
-#polynomial Regression
+# polynomial Regression
 
 * polynomial regression is to transform linear model to better fit our non linear data.
 * when you add degrees to your features in your model, you essentially turn a linear model into a spline surface or curve which then is said to be polynomial in nature.
@@ -59,6 +59,7 @@ plt.show()
 <img width="640" alt="poly" src="https://user-images.githubusercontent.com/32480274/50396804-83c37d00-076c-11e9-97ef-2416dec840c0.png">
 ￼
 ### Visualization 
+
     * Red Dots => Data used for training (Training set)
     * Blue Dots =>  Data used for testing (Test set)
     * Blue Line => Predicted value using trained set 
