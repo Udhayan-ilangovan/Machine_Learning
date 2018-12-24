@@ -119,6 +119,7 @@ accurcy = ((cm[0,0]+cm[1,1])/len(X_test))*100
 <img width="428" alt="ann_acc" src="https://user-images.githubusercontent.com/32480274/50404712-4b8f5f00-07ab-11e9-9ae2-7b42c8c020ab.png">
 ￼
 * Prediction result.
+
     * Predicted using confusion matrix.
     * 0 - 0 => Correct prediction of the People who didn't leave the bank.
     * 1 - 1 => Correct prediction of the People who left the bank.
