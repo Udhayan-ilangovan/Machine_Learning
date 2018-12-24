@@ -1,0 +1,308 @@
+"RULE:	frozenset({'chicken', 'light cream'})
+SUPPORT:	0.004532728969470737"
+"RULE:	frozenset({'mushroom cream sauce', 'escalope'})
+SUPPORT:	0.005732568990801226"
+"RULE:	frozenset({'escalope', 'pasta'})
+SUPPORT:	0.005865884548726837"
+"RULE:	frozenset({'honey', 'fromage blanc'})
+SUPPORT:	0.003332888948140248"
+"RULE:	frozenset({'ground beef', 'herb & pepper'})
+SUPPORT:	0.015997866951073192"
+"RULE:	frozenset({'ground beef', 'tomato sauce'})
+SUPPORT:	0.005332622317024397"
+"RULE:	frozenset({'olive oil', 'light cream'})
+SUPPORT:	0.003199573390214638"
+"RULE:	frozenset({'olive oil', 'whole wheat pasta'})
+SUPPORT:	0.007998933475536596"
+"RULE:	frozenset({'shrimp', 'pasta'})
+SUPPORT:	0.005065991201173177"
+"RULE:	frozenset({'milk', 'avocado', 'spaghetti'})
+SUPPORT:	0.003332888948140248"
+"RULE:	frozenset({'milk', 'burgers', 'cake'})
+SUPPORT:	0.0037328356219170776"
+"RULE:	frozenset({'burgers', 'chocolate', 'turkey'})
+SUPPORT:	0.0030662578322890282"
+"RULE:	frozenset({'milk', 'burgers', 'turkey'})
+SUPPORT:	0.003199573390214638"
+"RULE:	frozenset({'tomatoes', 'frozen vegetables', 'cake'})
+SUPPORT:	0.0030662578322890282"
+"RULE:	frozenset({'ground beef', 'cereals', 'spaghetti'})
+SUPPORT:	0.0030662578322890282"
+"RULE:	frozenset({'milk', 'ground beef', 'chicken'})
+SUPPORT:	0.0038661511798426876"
+"RULE:	frozenset({'nan', 'chicken', 'light cream'})
+SUPPORT:	0.004532728969470737"
+"RULE:	frozenset({'milk', 'olive oil', 'chicken'})
+SUPPORT:	0.0035995200639914677"
+"RULE:	frozenset({'olive oil', 'chicken', 'spaghetti'})
+SUPPORT:	0.0034662045060658577"
+"RULE:	frozenset({'shrimp', 'frozen vegetables', 'chocolate'})
+SUPPORT:	0.005332622317024397"
+"RULE:	frozenset({'ground beef', 'herb & pepper', 'chocolate'})
+SUPPORT:	0.003999466737768298"
+"RULE:	frozenset({'soup', 'milk', 'chocolate'})
+SUPPORT:	0.003999466737768298"
+"RULE:	frozenset({'ground beef', 'cooking oil', 'spaghetti'})
+SUPPORT:	0.004799360085321957"
+"RULE:	frozenset({'ground beef', 'herb & pepper', 'eggs'})
+SUPPORT:	0.0041327822956939075"
+"RULE:	frozenset({'spaghetti', 'red wine', 'eggs'})
+SUPPORT:	0.0037328356219170776"
+"RULE:	frozenset({'mushroom cream sauce', 'escalope', 'nan'})
+SUPPORT:	0.005732568990801226"
+"RULE:	frozenset({'nan', 'escalope', 'pasta'})
+SUPPORT:	0.005865884548726837"
+"RULE:	frozenset({'ground beef', 'herb & pepper', 'french fries'})
+SUPPORT:	0.003199573390214638"
+"RULE:	frozenset({'honey', 'nan', 'fromage blanc'})
+SUPPORT:	0.003332888948140248"
+"RULE:	frozenset({'tomatoes', 'green tea', 'frozen vegetables'})
+SUPPORT:	0.003332888948140248"
+"RULE:	frozenset({'ground beef', 'frozen vegetables', 'spaghetti'})
+SUPPORT:	0.008665511265164644"
+"RULE:	frozenset({'milk', 'olive oil', 'frozen vegetables'})
+SUPPORT:	0.004799360085321957"
+"RULE:	frozenset({'soup', 'milk', 'frozen vegetables'})
+SUPPORT:	0.003999466737768298"
+"RULE:	frozenset({'milk', 'tomatoes', 'frozen vegetables'})
+SUPPORT:	0.0041327822956939075"
+"RULE:	frozenset({'shrimp', 'frozen vegetables', 'mineral water'})
+SUPPORT:	0.007199040127982935"
+"RULE:	frozenset({'olive oil', 'frozen vegetables', 'spaghetti'})
+SUPPORT:	0.005732568990801226"
+"RULE:	frozenset({'shrimp', 'frozen vegetables', 'spaghetti'})
+SUPPORT:	0.005999200106652446"
+"RULE:	frozenset({'tomatoes', 'shrimp', 'frozen vegetables'})
+SUPPORT:	0.003999466737768298"
+"RULE:	frozenset({'tomatoes', 'frozen vegetables', 'spaghetti'})
+SUPPORT:	0.006665777896280496"
+"RULE:	frozenset({'spaghetti', 'ground beef', 'grated cheese'})
+SUPPORT:	0.005332622317024397"
+"RULE:	frozenset({'ground beef', 'green tea', 'tomatoes'})
+SUPPORT:	0.0030662578322890282"
+"RULE:	frozenset({'milk', 'ground beef', 'herb & pepper'})
+SUPPORT:	0.0035995200639914677"
+"RULE:	frozenset({'ground beef', 'mineral water', 'herb & pepper'})
+SUPPORT:	0.006665777896280496"
+"RULE:	frozenset({'nan', 'ground beef', 'herb & pepper'})
+SUPPORT:	0.015997866951073192"
+"RULE:	frozenset({'ground beef', 'herb & pepper', 'spaghetti'})
+SUPPORT:	0.006399146780429276"
+"RULE:	frozenset({'milk', 'ground beef', 'olive oil'})
+SUPPORT:	0.004932675643247567"
+"RULE:	frozenset({'soup', 'milk', 'ground beef'})
+SUPPORT:	0.003999466737768298"
+"RULE:	frozenset({'nan', 'ground beef', 'tomato sauce'})
+SUPPORT:	0.005332622317024397"
+"RULE:	frozenset({'ground beef', 'pepper', 'spaghetti'})
+SUPPORT:	0.003332888948140248"
+"RULE:	frozenset({'ground beef', 'shrimp', 'spaghetti'})
+SUPPORT:	0.005999200106652446"
+"RULE:	frozenset({'ground beef', 'tomato sauce', 'spaghetti'})
+SUPPORT:	0.0030662578322890282"
+"RULE:	frozenset({'nan', 'olive oil', 'light cream'})
+SUPPORT:	0.003199573390214638"
+"RULE:	frozenset({'milk', 'olive oil', 'shrimp'})
+SUPPORT:	0.003199573390214638"
+"RULE:	frozenset({'soup', 'milk', 'olive oil'})
+SUPPORT:	0.0035995200639914677"
+"RULE:	frozenset({'milk', 'olive oil', 'spaghetti'})
+SUPPORT:	0.007199040127982935"
+"RULE:	frozenset({'soup', 'milk', 'tomatoes'})
+SUPPORT:	0.0030662578322890282"
+"RULE:	frozenset({'milk', 'whole wheat pasta', 'spaghetti'})
+SUPPORT:	0.003999466737768298"
+"RULE:	frozenset({'soup', 'olive oil', 'mineral water'})
+SUPPORT:	0.005199306759098787"
+"RULE:	frozenset({'olive oil', 'whole wheat pasta', 'mineral water'})
+SUPPORT:	0.0038661511798426876"
+"RULE:	frozenset({'nan', 'olive oil', 'whole wheat pasta'})
+SUPPORT:	0.007998933475536596"
+"RULE:	frozenset({'nan', 'shrimp', 'pasta'})
+SUPPORT:	0.005065991201173177"
+"RULE:	frozenset({'olive oil', 'pancakes', 'spaghetti'})
+SUPPORT:	0.005065991201173177"
+"RULE:	frozenset({'olive oil', 'tomatoes', 'spaghetti'})
+SUPPORT:	0.004399413411545127"
+"RULE:	frozenset({'whole wheat rice', 'tomatoes', 'spaghetti'})
+SUPPORT:	0.0030662578322890282"
+"RULE:	frozenset({'milk', 'nan', 'avocado', 'spaghetti'})
+SUPPORT:	0.003332888948140248"
+"RULE:	frozenset({'milk', 'burgers', 'nan', 'cake'})
+SUPPORT:	0.0037328356219170776"
+"RULE:	frozenset({'nan', 'burgers', 'chocolate', 'turkey'})
+SUPPORT:	0.0030662578322890282"
+"RULE:	frozenset({'milk', 'burgers', 'nan', 'turkey'})
+SUPPORT:	0.003199573390214638"
+"RULE:	frozenset({'nan', 'tomatoes', 'frozen vegetables', 'cake'})
+SUPPORT:	0.0030662578322890282"
+"RULE:	frozenset({'nan', 'ground beef', 'cereals', 'spaghetti'})
+SUPPORT:	0.0030662578322890282"
+"RULE:	frozenset({'milk', 'ground beef', 'nan', 'chicken'})
+SUPPORT:	0.0038661511798426876"
+"RULE:	frozenset({'milk', 'nan', 'chicken', 'olive oil'})
+SUPPORT:	0.0035995200639914677"
+"RULE:	frozenset({'nan', 'olive oil', 'chicken', 'spaghetti'})
+SUPPORT:	0.0034662045060658577"
+"RULE:	frozenset({'ground beef', 'mineral water', 'chocolate', 'eggs'})
+SUPPORT:	0.003999466737768298"
+"RULE:	frozenset({'ground beef', 'mineral water', 'frozen vegetables', 'chocolate'})
+SUPPORT:	0.003332888948140248"
+"RULE:	frozenset({'ground beef', 'frozen vegetables', 'chocolate', 'spaghetti'})
+SUPPORT:	0.0030662578322890282"
+"RULE:	frozenset({'milk', 'mineral water', 'frozen vegetables', 'chocolate'})
+SUPPORT:	0.003999466737768298"
+"RULE:	frozenset({'milk', 'frozen vegetables', 'chocolate', 'spaghetti'})
+SUPPORT:	0.0034662045060658577"
+"RULE:	frozenset({'mineral water', 'frozen vegetables', 'chocolate', 'shrimp'})
+SUPPORT:	0.003199573390214638"
+"RULE:	frozenset({'nan', 'shrimp', 'frozen vegetables', 'chocolate'})
+SUPPORT:	0.005332622317024397"
+"RULE:	frozenset({'nan', 'ground beef', 'herb & pepper', 'chocolate'})
+SUPPORT:	0.003999466737768298"
+"RULE:	frozenset({'soup', 'milk', 'nan', 'chocolate'})
+SUPPORT:	0.003999466737768298"
+"RULE:	frozenset({'olive oil', 'mineral water', 'chocolate', 'spaghetti'})
+SUPPORT:	0.0038661511798426876"
+"RULE:	frozenset({'shrimp', 'mineral water', 'chocolate', 'spaghetti'})
+SUPPORT:	0.0034662045060658577"
+"RULE:	frozenset({'ground beef', 'cooking oil', 'nan', 'spaghetti'})
+SUPPORT:	0.004799360085321957"
+"RULE:	frozenset({'milk', 'frozen vegetables', 'mineral water', 'eggs'})
+SUPPORT:	0.0037328356219170776"
+"RULE:	frozenset({'nan', 'ground beef', 'herb & pepper', 'eggs'})
+SUPPORT:	0.0041327822956939075"
+"RULE:	frozenset({'nan', 'spaghetti', 'red wine', 'eggs'})
+SUPPORT:	0.0037328356219170776"
+"RULE:	frozenset({'nan', 'ground beef', 'herb & pepper', 'french fries'})
+SUPPORT:	0.003199573390214638"
+"RULE:	frozenset({'frozen smoothie', 'milk', 'mineral water', 'spaghetti'})
+SUPPORT:	0.003199573390214638"
+"RULE:	frozenset({'nan', 'tomatoes', 'green tea', 'frozen vegetables'})
+SUPPORT:	0.003332888948140248"
+"RULE:	frozenset({'milk', 'ground beef', 'frozen vegetables', 'mineral water'})
+SUPPORT:	0.0037328356219170776"
+"RULE:	frozenset({'milk', 'ground beef', 'frozen vegetables', 'spaghetti'})
+SUPPORT:	0.0030662578322890282"
+"RULE:	frozenset({'ground beef', 'frozen vegetables', 'mineral water', 'spaghetti'})
+SUPPORT:	0.004399413411545127"
+"RULE:	frozenset({'nan', 'ground beef', 'frozen vegetables', 'spaghetti'})
+SUPPORT:	0.008665511265164644"
+"RULE:	frozenset({'milk', 'olive oil', 'frozen vegetables', 'mineral water'})
+SUPPORT:	0.003332888948140248"
+"RULE:	frozenset({'soup', 'milk', 'frozen vegetables', 'mineral water'})
+SUPPORT:	0.0030662578322890282"
+"RULE:	frozenset({'milk', 'frozen vegetables', 'mineral water', 'spaghetti'})
+SUPPORT:	0.004532728969470737"
+"RULE:	frozenset({'milk', 'nan', 'frozen vegetables', 'olive oil'})
+SUPPORT:	0.004799360085321957"
+"RULE:	frozenset({'soup', 'milk', 'nan', 'frozen vegetables'})
+SUPPORT:	0.003999466737768298"
+"RULE:	frozenset({'milk', 'tomatoes', 'nan', 'frozen vegetables'})
+SUPPORT:	0.0041327822956939075"
+"RULE:	frozenset({'nan', 'shrimp', 'frozen vegetables', 'mineral water'})
+SUPPORT:	0.007199040127982935"
+"RULE:	frozenset({'shrimp', 'frozen vegetables', 'mineral water', 'spaghetti'})
+SUPPORT:	0.003332888948140248"
+"RULE:	frozenset({'tomatoes', 'frozen vegetables', 'mineral water', 'spaghetti'})
+SUPPORT:	0.0030662578322890282"
+"RULE:	frozenset({'nan', 'olive oil', 'frozen vegetables', 'spaghetti'})
+SUPPORT:	0.005732568990801226"
+"RULE:	frozenset({'nan', 'shrimp', 'frozen vegetables', 'spaghetti'})
+SUPPORT:	0.005999200106652446"
+"RULE:	frozenset({'nan', 'tomatoes', 'shrimp', 'frozen vegetables'})
+SUPPORT:	0.003999466737768298"
+"RULE:	frozenset({'nan', 'tomatoes', 'frozen vegetables', 'spaghetti'})
+SUPPORT:	0.006665777896280496"
+"RULE:	frozenset({'nan', 'ground beef', 'spaghetti', 'grated cheese'})
+SUPPORT:	0.005332622317024397"
+"RULE:	frozenset({'nan', 'ground beef', 'green tea', 'tomatoes'})
+SUPPORT:	0.0030662578322890282"
+"RULE:	frozenset({'milk', 'ground beef', 'nan', 'herb & pepper'})
+SUPPORT:	0.0035995200639914677"
+"RULE:	frozenset({'nan', 'ground beef', 'mineral water', 'herb & pepper'})
+SUPPORT:	0.006665777896280496"
+"RULE:	frozenset({'nan', 'ground beef', 'herb & pepper', 'spaghetti'})
+SUPPORT:	0.006399146780429276"
+"RULE:	frozenset({'milk', 'ground beef', 'olive oil', 'nan'})
+SUPPORT:	0.004932675643247567"
+"RULE:	frozenset({'soup', 'milk', 'ground beef', 'nan'})
+SUPPORT:	0.003999466737768298"
+"RULE:	frozenset({'olive oil', 'ground beef', 'mineral water', 'spaghetti'})
+SUPPORT:	0.0030662578322890282"
+"RULE:	frozenset({'ground beef', 'tomatoes', 'mineral water', 'spaghetti'})
+SUPPORT:	0.0030662578322890282"
+"RULE:	frozenset({'nan', 'ground beef', 'pepper', 'spaghetti'})
+SUPPORT:	0.003332888948140248"
+"RULE:	frozenset({'nan', 'ground beef', 'shrimp', 'spaghetti'})
+SUPPORT:	0.005999200106652446"
+"RULE:	frozenset({'nan', 'ground beef', 'tomato sauce', 'spaghetti'})
+SUPPORT:	0.0030662578322890282"
+"RULE:	frozenset({'milk', 'olive oil', 'mineral water', 'spaghetti'})
+SUPPORT:	0.003332888948140248"
+"RULE:	frozenset({'milk', 'tomatoes', 'mineral water', 'spaghetti'})
+SUPPORT:	0.003332888948140248"
+"RULE:	frozenset({'milk', 'olive oil', 'nan', 'shrimp'})
+SUPPORT:	0.003199573390214638"
+"RULE:	frozenset({'soup', 'milk', 'olive oil', 'nan'})
+SUPPORT:	0.0035995200639914677"
+"RULE:	frozenset({'milk', 'olive oil', 'nan', 'spaghetti'})
+SUPPORT:	0.007199040127982935"
+"RULE:	frozenset({'soup', 'milk', 'tomatoes', 'nan'})
+SUPPORT:	0.0030662578322890282"
+"RULE:	frozenset({'milk', 'whole wheat pasta', 'nan', 'spaghetti'})
+SUPPORT:	0.003999466737768298"
+"RULE:	frozenset({'soup', 'nan', 'olive oil', 'mineral water'})
+SUPPORT:	0.005199306759098787"
+"RULE:	frozenset({'nan', 'olive oil', 'whole wheat pasta', 'mineral water'})
+SUPPORT:	0.0038661511798426876"
+"RULE:	frozenset({'nan', 'olive oil', 'pancakes', 'spaghetti'})
+SUPPORT:	0.005065991201173177"
+"RULE:	frozenset({'nan', 'tomatoes', 'olive oil', 'spaghetti'})
+SUPPORT:	0.004399413411545127"
+"RULE:	frozenset({'whole wheat rice', 'nan', 'tomatoes', 'spaghetti'})
+SUPPORT:	0.0030662578322890282"
+"RULE:	frozenset({'mineral water', 'eggs', 'nan', 'ground beef', 'chocolate'})
+SUPPORT:	0.003999466737768298"
+"RULE:	frozenset({'mineral water', 'nan', 'ground beef', 'frozen vegetables', 'chocolate'})
+SUPPORT:	0.003332888948140248"
+"RULE:	frozenset({'nan', 'ground beef', 'frozen vegetables', 'chocolate', 'spaghetti'})
+SUPPORT:	0.0030662578322890282"
+"RULE:	frozenset({'mineral water', 'nan', 'milk', 'frozen vegetables', 'chocolate'})
+SUPPORT:	0.003999466737768298"
+"RULE:	frozenset({'milk', 'nan', 'frozen vegetables', 'chocolate', 'spaghetti'})
+SUPPORT:	0.0034662045060658577"
+"RULE:	frozenset({'mineral water', 'nan', 'frozen vegetables', 'chocolate', 'shrimp'})
+SUPPORT:	0.003199573390214638"
+"RULE:	frozenset({'mineral water', 'nan', 'chocolate', 'olive oil', 'spaghetti'})
+SUPPORT:	0.0038661511798426876"
+"RULE:	frozenset({'mineral water', 'nan', 'chocolate', 'shrimp', 'spaghetti'})
+SUPPORT:	0.0034662045060658577"
+"RULE:	frozenset({'mineral water', 'eggs', 'milk', 'nan', 'frozen vegetables'})
+SUPPORT:	0.0037328356219170776"
+"RULE:	frozenset({'mineral water', 'frozen smoothie', 'milk', 'nan', 'spaghetti'})
+SUPPORT:	0.003199573390214638"
+"RULE:	frozenset({'mineral water', 'milk', 'ground beef', 'nan', 'frozen vegetables'})
+SUPPORT:	0.0037328356219170776"
+"RULE:	frozenset({'milk', 'ground beef', 'nan', 'frozen vegetables', 'spaghetti'})
+SUPPORT:	0.0030662578322890282"
+"RULE:	frozenset({'mineral water', 'nan', 'ground beef', 'frozen vegetables', 'spaghetti'})
+SUPPORT:	0.004399413411545127"
+"RULE:	frozenset({'mineral water', 'milk', 'nan', 'frozen vegetables', 'olive oil'})
+SUPPORT:	0.003332888948140248"
+"RULE:	frozenset({'soup', 'mineral water', 'milk', 'nan', 'frozen vegetables'})
+SUPPORT:	0.0030662578322890282"
+"RULE:	frozenset({'mineral water', 'milk', 'nan', 'frozen vegetables', 'spaghetti'})
+SUPPORT:	0.004532728969470737"
+"RULE:	frozenset({'mineral water', 'nan', 'frozen vegetables', 'shrimp', 'spaghetti'})
+SUPPORT:	0.003332888948140248"
+"RULE:	frozenset({'tomatoes', 'mineral water', 'nan', 'frozen vegetables', 'spaghetti'})
+SUPPORT:	0.0030662578322890282"
+"RULE:	frozenset({'mineral water', 'nan', 'ground beef', 'olive oil', 'spaghetti'})
+SUPPORT:	0.0030662578322890282"
+"RULE:	frozenset({'tomatoes', 'mineral water', 'nan', 'ground beef', 'spaghetti'})
+SUPPORT:	0.0030662578322890282"
+"RULE:	frozenset({'mineral water', 'milk', 'nan', 'olive oil', 'spaghetti'})
+SUPPORT:	0.003332888948140248"
+"RULE:	frozenset({'tomatoes', 'mineral water', 'milk', 'nan', 'spaghetti'})
+SUPPORT:	0.003332888948140248"
