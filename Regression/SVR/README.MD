@@ -79,6 +79,7 @@ plt.xlabel("Salary",fontsize = 'larger')
 plt.grid()
 # Displaying the model
 plt.show()
+
 <img width="642" alt="svr" src="https://user-images.githubusercontent.com/32480274/50397089-44962b80-076e-11e9-89f5-9eb3615af049.png">
 
 ￼
