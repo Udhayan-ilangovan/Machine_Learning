@@ -132,7 +132,8 @@ plt.show()
 ### Training Set
 
 
-<img width="634" alt="image" src="https://user-images.githubusercontent.com/32480274/50399171-cd689380-077d-11e9-86ec-fd50d5968775.png">
+
+<img width="634" alt="image" src="https://user-images.githubusercontent.com/32480274/50399191-ef621600-077d-11e9-8a0a-6cb6894461f7.png">
 
 ### Visualization 
 
@@ -142,7 +143,8 @@ plt.show()
  
 ### Test Set
 
-<img width="634" alt="image" src="https://user-images.githubusercontent.com/32480274/50399191-ef621600-077d-11e9-8a0a-6cb6894461f7.png">
+<img width="634" alt="image" src="https://user-images.githubusercontent.com/32480274/50399171-cd689380-077d-11e9-86ec-fd50d5968775.png">
+
 
 ### Visualization 
 
