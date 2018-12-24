@@ -130,13 +130,17 @@ plt.show()
 
 <img width="634" alt="image" src="https://user-images.githubusercontent.com/32480274/50398406-a3ac6e00-0777-11e9-8757-67b40312a130.png">
 ￼
+
 ### Visualization 
+
 
     * Blue and yellow Dots => Data used for training (Training set)
     * Red part  =>  Customer who hadn't purchased the car
     * Green part => Customer who purchased the car
+    
 
 ### Test Set
+
 <img width="634" alt="image" src="https://user-images.githubusercontent.com/32480274/50398418-bde64c00-0777-11e9-9499-c906dd2158c3.png">
 ￼
 ### Visualization 
