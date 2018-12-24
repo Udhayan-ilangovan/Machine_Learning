@@ -79,6 +79,7 @@ plt.xlim(x1.min(), x1.max())
 plt.ylim(x2.min(), x2.max())
 
 for i, j in enumerate(np.unique(y_set)):
+
     plt.scatter(x_set[y_set == j, 0], x_set[y_set == j, 1],
                 c = ListedColormap(('blue', 'yellow'))(i), label = j)
 
@@ -110,6 +111,7 @@ plt.xlim(x1.min(), x1.max())
 plt.ylim(x2.min(), x2.max())
 
 for i, j in enumerate(np.unique(y_set)):
+
     plt.scatter(x_set[y_set == j, 0], x_set[y_set == j, 1],
                 c = ListedColormap(('blue', 'yellow'))(i), label = j)
 
