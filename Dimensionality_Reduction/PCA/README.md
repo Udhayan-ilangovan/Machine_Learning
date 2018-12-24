@@ -155,7 +155,7 @@ plt.show()
 * To plot in 2D, we are taking the first two principal components which are 37+19 =56 % of the variance.
 
 <img width="125" alt="pca_analysis" src="https://user-images.githubusercontent.com/32480274/50404953-42ec5800-07ae-11e9-85aa-bcf1ddedcaee.png">
-￼
+
 ### Prediction results.
 
     * Predicted using confusion matrix.
