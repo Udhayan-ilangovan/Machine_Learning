@@ -143,7 +143,9 @@ plt.show()
 
 <img width="634" alt="image" src="https://user-images.githubusercontent.com/32480274/50398418-bde64c00-0777-11e9-9499-c906dd2158c3.png">
 ￼
+
 ### Visualization 
+
 
     * Blue and yellow Dots => Data used for Testing (Test set)
     * Red part  =>  Customer who won't purchase the car
