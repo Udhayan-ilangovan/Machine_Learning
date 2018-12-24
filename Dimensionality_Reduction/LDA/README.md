@@ -151,8 +151,7 @@ plt.show()
 
 <img width="1399" alt="pca_dataset" src="https://user-images.githubusercontent.com/32480274/50405020-079e5900-07af-11e9-93cb-22ea98f9fe0f.png">
 
-￼
-###Explained variance 
+### Explained variance 
 
 * Extracted 2 independent variables.
 
@@ -168,7 +167,7 @@ plt.show()
     * 1 - 0, 1-2 => Incorrect prediction of the customer (2) who didn't like the wine.
     * 2 - 0, 2-1 => Incorrect prediction of the customer (3) who didn't like the wine.
 <img width="320" alt="lda_cm" src="https://user-images.githubusercontent.com/32480274/50405027-1258ee00-07af-11e9-99dd-26ed6a791666.png">
-￼
+
 ### Training set
 
 ### Visualization 
@@ -178,7 +177,7 @@ plt.show()
     * Green part and yellow dot => customer (2) who like the wine
     * Magenta part and cyan dot => customer (3) who like the wine
 <img width="1282" alt="lda_test_set" src="https://user-images.githubusercontent.com/32480274/50405030-171da200-07af-11e9-8c34-24d22a43c631.png">
-￼
+
 ### Test Set
 
 ### Visualization 
