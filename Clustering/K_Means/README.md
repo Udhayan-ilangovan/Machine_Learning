@@ -59,14 +59,14 @@ plt.grid()
 
 plt.show()    
 
-# Training the correct model to cluster
+###Training the correct model to cluster
 better_n_cluster = 5
 
 k_clustering = KMeans(n_clusters = better_n_cluster, init = 'k-means++', n_init = 10 ,max_iter = 300, random_state = 42 )
 
 y_means = k_clustering.fit_predict(X)
 
-# Visualising the clusters
+### Visualising the clusters
 
 plt.figure("KMean Clustering")
 
@@ -90,12 +90,12 @@ plt.legend()
 
 plt.show()
 
-* Elbow Graph
+### Elbow Graph
     * It is used to determine the best number of cluster
 
 <img width="1348" alt="k-means_clustering_elbow" src="https://user-images.githubusercontent.com/32480274/50400273-baf25800-0785-11e9-8673-aaee12550ab6.png">
 ￼
-*  Clustered data
+### Clustered data
     *  5 centroids and cluster 
 
 <img width="1313" alt="k-means_clustering" src="https://user-images.githubusercontent.com/32480274/50400301-fbea6c80-0785-11e9-93dd-ff45aa2878d2.png">
