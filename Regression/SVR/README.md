@@ -31,14 +31,20 @@ Y = S_dataset.iloc[:,2:3].values
 
 ### Seperatning the dataset Test and Train without shuffling
 from sklearn.model_selection import train_test_split
+
 x_train,x_test,y_train,y_test = train_test_split(X,Y,test_size=0.1,random_state=0,shuffle=False)
 
 ### Data prepocessing / Feature Scaling
 from sklearn.preprocessing import StandardScaler
+
 x_standedscaler = StandardScaler()
+
 y_standedscaler = StandardScaler()
+
 x_train = x_standedscaler.fit_transform(x_train)
+
 y_train = y_standedscaler.fit_transform(y_train)
+
 x_test = x_standedscaler.transform(x_test)
 
 ### SVR fitting dataset
@@ -51,18 +57,26 @@ y_pred_train = svr_Regressor.predict(x_train)
 
 ### predicting test 
 y_pred_test = svr_Regressor.predict(x_test)
+
 print(y_pred_test)
+
 y_pred_test_inverse = y_standedscaler.inverse_transform(y_pred_test)
+
 print(y_pred_test_inverse)
 
 ### manual input: To predict 
 x_in = 6.5
+
 x_in = np.array([[x_in]])
+
 dir_in = x_standedscaler.transform(x_in)
+
 y_pred_test_dir_inp = svr_Regressor.predict(dir_in)
 
 # Converting the value back into real formate 
+
 y_pred_test_dir_inp_inverse = y_standedscaler.inverse_transform(y_pred_test_dir_inp)
+
 print(y_pred_test_dir_inp_inverse)
 
 ### visualisation
