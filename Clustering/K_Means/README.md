@@ -98,6 +98,7 @@ plt.show()
 ￼
 ### Clustered data
 
+
     *  5 centroids and cluster 
 
 <img width="1313" alt="k-means_clustering" src="https://user-images.githubusercontent.com/32480274/50400301-fbea6c80-0785-11e9-93dd-ff45aa2878d2.png">
