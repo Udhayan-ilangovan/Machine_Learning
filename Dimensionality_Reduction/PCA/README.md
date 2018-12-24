@@ -167,7 +167,6 @@ plt.show()
     * 2 - 0, 2-1 => Incorrect prediction of the customer (3) who didn't like the wine.
 <img width="317" alt="pca_cm" src="https://user-images.githubusercontent.com/32480274/50404954-467fdf00-07ae-11e9-9104-93335b3dd78a.png">
 
-￼
 ### Visualization 
 
     * Blue and yellow Dots => Data used for Training (Training set)
@@ -176,7 +175,7 @@ plt.show()
     * Purple part and cyan dot => customer (3) who like the wine
 
 <img width="1285" alt="pca_test_set" src="https://user-images.githubusercontent.com/32480274/50404958-4a136600-07ae-11e9-9d40-302e835b9eb6.png">
-￼
+
 ### Visualization 
 
     * Blue and yellow Dots => Data used for Test (Test set)
