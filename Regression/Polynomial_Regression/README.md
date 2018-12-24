@@ -59,7 +59,7 @@ plt.show()
 <img width="640" alt="poly" src="https://user-images.githubusercontent.com/32480274/50396804-83c37d00-076c-11e9-97ef-2416dec840c0.png">
 ￼
 
-###Visualization 
+### Visualization 
 
     * Red Dots => Data used for training (Training set)
     * Blue Dots =>  Data used for testing (Test set)
